@@ -27,3 +27,6 @@ java Main
 - `MostSimilarWord.java`: Finds the most similar word to a given word from a list of choices.
 - `RunSimilarityTest.java`: Runs a similarity test using semantic descriptors to find the most similar word to a given question word from a list of answer choices.
 
+## Output
+The output file "answers.txt" contains the results of the similarity test. Each line in the file corresponds to a question-answer pair, with the original question word followed by the most similar word found as the answer.
+
